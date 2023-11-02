@@ -1,0 +1,28 @@
+{
+    "estudantes": [
+    {
+        "id": 1,
+        "nome": "José Silva",
+        "email":"josesilva@email.com",
+        "curso": "Curso 1"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Silva",
+        "email":"mariasilva@email.com",
+        "curso": "Curso 2"
+    },
+    {
+        "id": 3,
+        "nome": "Joao Silva",
+        "email":"joaosilva@email.com",
+        "curso": "Curso 1"
+    },
+    {
+        "id": 4,
+        "nome": "Fernandes Maria Silva",
+        "email":"femariasilva@email.com",
+        "curso": "Curso 3"
+    }
+]
+}
