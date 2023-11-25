@@ -1,0 +1,23 @@
+{
+    "noticias": 
+    [
+        {
+            "id" : 1,
+            "titulo": "Título Notícia 1",
+            "subtitulo": "Subtítulo Notícia 1", 
+            "textoNoticia" : "Texto da Notícia 1"
+        },
+        {
+            "id" : 2,
+            "titulo": "Título Notícia 2",
+            "subtitulo": "Subtítulo Notíca 2", 
+            "textoNoticia" : "Texto da Notícia 2"
+        },
+        {
+            "id" : 3,
+            "titulo": "Título Notícia 3",
+            "subtitulo": "Subtítulo Notícia 3", 
+            "textoNoticia" : "Texto da Notícia 3"
+        }
+    ]
+}
